@@ -11,3 +11,10 @@ https://www.root-me.org/en/Challenges/Forensic/
 # Very easy list:
 https://www.root-me.org/tag/Tres-facile?lang=en
 
+## Web server:
+Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+
+## Cryptanalysis:
+Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
+Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
