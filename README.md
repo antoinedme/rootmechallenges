@@ -9,9 +9,16 @@ https://www.root-me.org/en/Challenges/Forensic/
 https://www.root-me.org/tag/Tres-facile?lang=en
 
 ### Category: Web server:
-[checkbox:checked] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
-[checkbox:unchecked] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+
+[-] 
+Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+
+[x] 
+HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 
 ## Category: Cryptanalysis:
 [checkbox:unchecked] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
 [checkbox:unchecked] Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
+
+[ ]
+[]
