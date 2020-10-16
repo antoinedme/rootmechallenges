@@ -5,16 +5,13 @@ The computer forensics challenges are aimed at teaching you the methodologies, t
 
 https://www.root-me.org/en/Challenges/Forensic/
 
-## Command & Control - level 2
-15 Points, Memory analysis
-
-# Very easy list:
+## Easy steps:
 https://www.root-me.org/tag/Tres-facile?lang=en
 
-## Web server:
-Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
-HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+### Category: Web server:
+[checkbox:checked] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+[checkbox:unchecked] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 
-## Cryptanalysis:
-Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
-Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
+## Category: Cryptanalysis:
+[checkbox:unchecked] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
+[checkbox:unchecked] Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
