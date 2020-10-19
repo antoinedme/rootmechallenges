@@ -10,8 +10,9 @@ https://www.root-me.org/tag/Tres-facile?lang=en
 
 ### Category: Web server:
 
-- [x] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
-- [ ] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+- [ ] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+- [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+Sol: Browse HTML Ctrl+U, check for comments
 
 ## Category: Cryptanalysis:
 - [ ] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
