@@ -21,12 +21,18 @@ https://www.root-me.org/en/Challenges/Web-Server/SQL-Injection-Routed?tri_co=nom
 
 
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+
 Sol: Browse HTML Ctrl+U, check for comments
 - [x] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+
 Sol: Just tried what I had in mind..
 - [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
+
+Sol: change User agent in POST? Ex: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7 
 - [ ] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
+
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
+
 Sol: used "Inspect element" and modified valued to 1000001, then clicked submit.
 Note: investigated POST method, using POSTMAN on "onsubmit"?
 
