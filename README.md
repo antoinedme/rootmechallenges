@@ -21,6 +21,7 @@ Prerequisites:
 
 64 Challenges available here: (2/64)
 https://www.root-me.org/en/Challenges/Web-Server/
+https://www.root-me.org/en/Challenges/Web-Server/SQL-Injection-Routed?tri_co=nombre_validation&sens_co=-1
 
 
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
