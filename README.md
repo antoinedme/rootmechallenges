@@ -13,6 +13,9 @@ https://www.root-me.org/tag/Tres-facile?lang=en
 - [ ] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 Sol: Browse HTML Ctrl+U, check for comments
+- [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
+Sol: used "Inspect element" and modified valued to 1000001, then clicked submit.
+Note: investigated POST method, using POSTMAN on "onsubmit"?
 
 ## Category: Cryptanalysis:
 - [ ] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
