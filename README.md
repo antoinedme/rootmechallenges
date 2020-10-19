@@ -25,7 +25,8 @@ https://www.root-me.org/en/Challenges/Web-Server/
 
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 Sol: Browse HTML Ctrl+U, check for comments
-- [ ] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+- [x] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+Sol: Just tried what I had in mind..
 - [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
 - [ ] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
