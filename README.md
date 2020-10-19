@@ -36,6 +36,10 @@ Sol: change User agent in POST? Ex: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach
 Sol: used "Inspect element" and modified valued to 1000001, then clicked submit.
 Note: investigated POST method, using POSTMAN on "onsubmit"?
 
-## Category: Cryptanalysis:
+### Category: Cryptanalysis:
 - [ ] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
 - [ ] Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
+
+### Category: Web-client:
+
+https://www.root-me.org/fr/Challenges/Web-Client/
