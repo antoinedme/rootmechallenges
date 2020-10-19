@@ -22,7 +22,7 @@ https://www.root-me.org/en/Challenges/Web-Server/SQL-Injection-Routed?tri_co=nom
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 - [x] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
 - [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
-- [ ] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
+- [x] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
 
 ### Category: Cryptanalysis:
