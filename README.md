@@ -16,14 +16,25 @@ Prerequisites:
 - Ability to manipulate a web browser.
 
 64 Challenges available here: (2/64)
-https://www.root-me.org/en/Challenges/Web-Server/
-https://www.root-me.org/en/Challenges/Web-Server/SQL-Injection-Routed?tri_co=nombre_validation&sens_co=-1
+https://www.root-me.org/fr/Challenges/Web-Serveur/
+
 
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 - [x] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
 - [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
 - [x] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
+- [ ] HTTP - Open redirect: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Open-redirect
+- [ ] PHP - Injection de commande: https://www.root-me.org/fr/Challenges/Web-Serveur/Injection-de-commande
+- [ ] Fichier de sauvegarde: https://www.root-me.org/fr/Challenges/Web-Serveur/Fichier-de-sauvegarde
+- [ ] HTTP - Headers: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers
+- [ ] HTTP - Redirection invalide: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Redirection-invalide
+- [ ] HTTP - Verb tampering: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-verb-tampering
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
 
 ### Category: Cryptanalysis:
 - [ ] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
