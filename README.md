@@ -10,9 +10,24 @@ https://www.root-me.org/tag/Tres-facile?lang=en
 
 ### Category: Web server:
 
-- [ ] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+Discover the mechanisms, protocols and technologies used on the Internet and learn to abuse it!
+
+These challenges are designed to train users on HTML, HTTP and other server side mechanisms. The following series of challenges will cultivate a better understanding of techniques such as : Basic workings of multiple authentication mechanisms, handling form data, inner workings of web applications, etc. ...
+
+Prerequisites:
+- Understand HTML.
+- Understand the HTTP protocol.
+- Ability to manipulate a web browser.
+
+64 Challenges available here: (2/64)
+https://www.root-me.org/en/Challenges/Web-Server/
+
+
 - [x] HTML - Source code: https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
 Sol: Browse HTML Ctrl+U, check for comments
+- [ ] Weak password: https://www.root-me.org/en/Challenges/Web-Server/Weak-password
+- [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
+- [ ] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
 Sol: used "Inspect element" and modified valued to 1000001, then clicked submit.
 Note: investigated POST method, using POSTMAN on "onsubmit"?
