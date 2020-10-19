@@ -30,10 +30,6 @@ https://www.root-me.org/fr/Challenges/Web-Serveur/
 - [ ] HTTP - Headers: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers
 - [ ] HTTP - Redirection invalide: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Redirection-invalide
 - [ ] HTTP - Verb tampering: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-verb-tampering
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
 ### Category: Cryptanalysis:
