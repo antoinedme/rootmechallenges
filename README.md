@@ -32,13 +32,20 @@ https://www.root-me.org/fr/Challenges/Web-Serveur/
 - [ ] HTTP - Verb tampering: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-verb-tampering
 
 
-### Category: Cryptanalysis:
-- [ ] Encoding-ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
-- [ ] Hash-Message-Digest-5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
-
 ### Category: Web-client:
 
-https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification?tri_co=nombre_validation&sens_co=-1
+At first you will be faced with problems that will require little to no knowledge of web scripting language. Pretty soon the plot thickens ...
+
+This series of events confronts you with the use of scripting language / client side programming. They are mostly scripts to analyze and understand. This will allow you to learn this language which is in widespread use on the internet.
+
+Prerequisites:
+- Understanding a scripting language such javascript / vbscript
+- Understanding the operation of a debugger such firebug / javascript console
+
+20 Challenges available here: (5/20)
+https://www.root-me.org/fr/Challenges/Web-Client/
+
+
 - [x] Javascript - Authentification: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification
 - [x] Javascript - Source: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Source
 - [x] Javascript - Authentification 2: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification-2
@@ -49,4 +56,3 @@ https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification?tri
 - [ ] Javascript - Webpack: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Webpack
 - [ ] Javascript - Obfuscation 3: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-3
 - [ ] XSS - Stockée 1: https://www.root-me.org/fr/Challenges/Web-Client/XSS-Stored-1
-
