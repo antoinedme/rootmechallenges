@@ -4,7 +4,8 @@
 
 I'm participating to the RootMe challenges: https://www.root-me.org/?page=plan&lang=en
 
-https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-server
+- [Web server](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-server)
+- [Web clients](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-client)
 
 
 ### Category: Web server:
