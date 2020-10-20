@@ -42,6 +42,6 @@ https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification?tri
 - [x] Javascript - Authentification: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification
 - [x] Javascript - Source: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Source
 - [x] Javascript - Authentification 2: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Authentification-2
-- [ ] Javascript - Obfuscation 1: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-1
+- [x] Javascript - Obfuscation 1: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-1
 - [x] HTML - boutons désactivés: https://www.root-me.org/fr/Challenges/Web-Client/HTML-boutons-desactives
 
