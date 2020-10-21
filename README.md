@@ -6,6 +6,7 @@ I'm participating to the RootMe challenges: https://www.root-me.org/?page=plan&l
 
 - [Web server](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-server)
 - [Web clients](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-client)
+- [Network](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-network)
 
 
 ### Category: Web server:
@@ -19,7 +20,7 @@ Prerequisites:
 - Understand the HTTP protocol.
 - Ability to manipulate a web browser.
 
-64 Challenges available here: (2/64)
+64 Challenges available here: (4/64)
 https://www.root-me.org/fr/Challenges/Web-Serveur/
 
 
@@ -46,7 +47,7 @@ Prerequisites:
 - Understanding a scripting language such javascript / vbscript
 - Understanding the operation of a debugger such firebug / javascript console
 
-20 Challenges available here: (5/20)
+20 Challenges available here: (6/20)
 https://www.root-me.org/fr/Challenges/Web-Client/
 
 
@@ -60,3 +61,22 @@ https://www.root-me.org/fr/Challenges/Web-Client/
 - [ ] Javascript - Webpack: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Webpack
 - [ ] Javascript - Obfuscation 3: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-3
 - [ ] XSS - Stockée 1: https://www.root-me.org/fr/Challenges/Web-Client/XSS-Stored-1
+
+### Category: Network:
+
+Networks challenges where you have to deal with captured traffic, network services, packet analysis, etc
+
+The following set of problems deal with network traffic including different protocols. You need to analyse the packet captures to solve these challenges.
+
+Prerequisites:
+- Knowledge of a network capture analyzing tool.
+- Knowlege of the most common network protocols.
+
+
+18 Challenges available here: (1/18)
+https://www.root-me.org/en/Challenges/Network/
+
+- [x] FTP - authentication: https://www.root-me.org/en/Challenges/Network/FTP-authentication
+- [ ] TELNET - authentication: https://www.root-me.org/en/Challenges/Network/TELNET-authentication
+- [ ] ETHERNET - frame: https://www.root-me.org/en/Challenges/Network/ETHERNET-frame
+- [ ] Twitter authentication: https://www.root-me.org/en/Challenges/Network/Twitter-authentication-101
