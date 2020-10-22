@@ -80,3 +80,17 @@ https://www.root-me.org/en/Challenges/Network/
 - [ ] TELNET - authentication: https://www.root-me.org/en/Challenges/Network/TELNET-authentication
 - [ ] ETHERNET - frame: https://www.root-me.org/en/Challenges/Network/ETHERNET-frame
 - [ ] Twitter authentication: https://www.root-me.org/en/Challenges/Network/Twitter-authentication-101
+
+
+### Category: App Script:
+
+Exploit environment weaknesses, configuration mistakes and vulnerability patterns in shell scripting and system hardening.
+
+For each of these challenges, you will be provided with connection credentials such as SSH access or a network socket. Depending on the challenge you will need to elevate your privileges or escape the sandbox by exploiting the provided environment.
+
+Prerequisites:
+- Some knowledge of the UNIX shell and of common UNIX privilege escalation techniques
+- Advanced understanding of scripting languages such as Python, Perl, PHP in order to escape jails
+
+22 Challenges available here: (0/22)
+https://www.root-me.org/en/Challenges/App-Script/
