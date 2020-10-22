@@ -7,6 +7,8 @@ I'm participating to the RootMe challenges: https://www.root-me.org/?page=plan&l
 - [Web server](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-server)
 - [Web clients](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-web-client)
 - [Network](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-network)
+- [App Script](https://github.com/antoinedme/rootmechallenges/blob/main/README.md#category-app-script)
+
 
 
 ### Category: Web server:
@@ -94,3 +96,7 @@ Prerequisites:
 
 22 Challenges available here: (0/22)
 https://www.root-me.org/en/Challenges/App-Script/
+
+- [ ] Bash - System 1: https://www.root-me.org/en/Challenges/App-Script/ELF32-System-1
+- [ ] sudo - weak configuration: https://www.root-me.org/en/Challenges/App-Script/sudo-weak-configuration
+- [ ] Bash - System 2: https://www.root-me.org/en/Challenges/App-Script/ELF32-System-2
