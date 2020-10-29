@@ -15,3 +15,21 @@ Hash analysis, bruteforce tools, hash cracker, etc
 - thc-hydra: https://www.root-me.org/en/Tools/Cryptography/thc-hydra
 - JohnTheRipper: https://www.root-me.org/en/Tools/Cryptography/JohnTheRipper
 - ncrack: https://www.root-me.org/en/Tools/Cryptography/ncrack
+
+### 2. Network
+Analyser, scanner, all you need to understand and map a network.
+
+- Frogger2: 
+- dtpscan:
+- ntop:
+- Dshell:
+- Canape:
+- sslstrip:
+- thc-ipv6:
+- tcpdump:
+- hping3:
+- nmap:
+- Wireshark:
+- Nessus:
+
+Forensic
