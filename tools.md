@@ -48,3 +48,11 @@ You will find memory analysers (Rekall, volatility), disk analysers (foremost, S
 - Rekall (7 February 2016)
 - volatility (7 February 2016)
 
+### 4. Online tools
+Several tools are available online : password generator, crypt, whois...
+
+- Password generator (6 October 2006)
+- Whois (6 October 2006)
+- Code - Decode (29 September 2006)
+
+
