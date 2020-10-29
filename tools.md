@@ -32,4 +32,19 @@ Analyser, scanner, all you need to understand and map a network.
 - Wireshark:
 - Nessus:
 
-Forensic
+### 3. Forensic
+You will find memory analysers (Rekall, volatility), disk analysers (foremost, SleuthKit), malware analysers (cuckoo), system analysers (dff) and firmware analysers (binwalk).
+
+- unpacker (8 November 2016)
+- VirtualDeobfuscator (8 November 2016)
+- FireEye Labs Obfuscated (...) (8 November 2016)
+- PackerAttacker (8 November 2016)
+- de4dot (8 November 2016)
+- cuckoo (7 February 2016)
+- dff (7 February 2016)
+- binwalk (7 February 2016)
+- foremost (7 February 2016)
+- SleuthKit (7 February 2016)
+- Rekall (7 February 2016)
+- volatility (7 February 2016)
+
