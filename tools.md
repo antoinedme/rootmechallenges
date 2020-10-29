@@ -67,4 +67,14 @@ Reversing tools to help you in your binary analysis : debugger, disassembler, ma
 - Radare2 (7 February 2016)
 - Jd-gui (7 February 2016)
 
+### 6. System
+Vulnerability scanner, exploit framework, OS based system tools, etc
+
+-  pwntools (14 April 2016)
+- pwnypack (14 April 2016)
+- ROPgadget (7 February 2016)
+- Impacket (7 February 2016)
+- Metasploit (7 February 2016)
+- Powershell Empire (7 February 2016)
+- Veil Evasion (7 February 2016)
 
