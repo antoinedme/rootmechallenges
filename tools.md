@@ -78,3 +78,15 @@ Vulnerability scanner, exploit framework, OS based system tools, etc
 - Powershell Empire (7 February 2016)
 - Veil Evasion (7 February 2016)
 
+### 7. Web
+Web vulnerability scanner, applicative proxy, CMS fingerprinting, etc
+
+- Joomscan (8 November 2016)
+- WPscan (14 April 2016)
+- zapproxy (7 February 2016)
+- Beef (7 February 2016)
+- WS-Attacker (7 February 2016)
+- CMSmap (7 February 2016)
+- Wordpress Sploit Framework (7 February 2016)
+- Weevely (7 February 2016)
+- SqlMap (7 February 2016)
