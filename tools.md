@@ -55,4 +55,16 @@ Several tools are available online : password generator, crypt, whois...
 - Whois (6 October 2006)
 - Code - Decode (29 September 2006)
 
+### 5. Reverse Engineering
+Reversing tools to help you in your binary analysis : debugger, disassembler, managed code decompiler, etc. 
+
+- Ghidra (19 April 2019)
+- luyten (7 February 2016)
+- APKTool (7 February 2016)
+- dex2jar (7 February 2016)
+- diStorm3 (7 February 2016)
+- Peda (7 February 2016)
+- Radare2 (7 February 2016)
+- Jd-gui (7 February 2016)
+
 
