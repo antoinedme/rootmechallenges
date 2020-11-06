@@ -60,7 +60,7 @@ https://www.root-me.org/fr/Challenges/Web-Client/
 - [x] HTML - boutons désactivés: https://www.root-me.org/fr/Challenges/Web-Client/HTML-boutons-desactives
 - [x] Javascript - Obfuscation 2: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-2
 - [ ] CSP Bypass - Inline code: https://www.root-me.org/fr/Challenges/Web-Client/CSP-Bypass-Inline-code
-- [ ] Javascript - Native code: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Native-code
+- [x] Javascript - Native code: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Native-code
 - [ ] Javascript - Webpack: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Webpack
 - [x] Javascript - Obfuscation 3: https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-3
 - [ ] XSS - Stockée 1: https://www.root-me.org/fr/Challenges/Web-Client/XSS-Stored-1
