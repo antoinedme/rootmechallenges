@@ -22,7 +22,7 @@ Prerequisites:
 - Understand the HTTP protocol.
 - Ability to manipulate a web browser.
 
-64 Challenges available here: (4/64)
+64 Challenges available here: 
 https://www.root-me.org/fr/Challenges/Web-Serveur/
 
 
@@ -49,7 +49,7 @@ Prerequisites:
 - Understanding a scripting language such javascript / vbscript
 - Understanding the operation of a debugger such firebug / javascript console
 
-20 Challenges available here: (6/20)
+20 Challenges available here: 
 https://www.root-me.org/fr/Challenges/Web-Client/
 
 
@@ -76,7 +76,7 @@ Prerequisites:
 - Knowlege of the most common network protocols.
 
 
-18 Challenges available here: (1/18)
+18 Challenges available here: 
 https://www.root-me.org/en/Challenges/Network/
 
 - [x] FTP - authentication: https://www.root-me.org/en/Challenges/Network/FTP-authentication
@@ -100,9 +100,31 @@ Prerequisites:
 - Some knowledge of the UNIX shell and of common UNIX privilege escalation techniques
 - Advanced understanding of scripting languages such as Python, Perl, PHP in order to escape jails
 
-22 Challenges available here: (0/22)
+22 Challenges available here: 
 https://www.root-me.org/en/Challenges/App-Script/
 
 - [ ] Bash - System 1: https://www.root-me.org/en/Challenges/App-Script/ELF32-System-1
 - [ ] sudo - weak configuration: https://www.root-me.org/en/Challenges/App-Script/sudo-weak-configuration
 - [ ] Bash - System 2: https://www.root-me.org/en/Challenges/App-Script/ELF32-System-2
+
+### Category: Web server:
+
+Break encryption algorithms.
+
+These tests will allow you to hone your cryptography skills. You will be faced with an encoded data. The challenge is to find the type of encoding or encryption and revert it back to find the solution.
+
+Prerequisites:
+- Knowledge of most common encoding formats.
+- Knowledge of most common hash algorithms and ciphers.
+- Knowledge of a scripting language.
+
+50 Challenges available here: 
+https://www.root-me.org/en/Challenges/Cryptanalysis/
+
+- [x] Encoding - ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
+- [ ] Encoding - UU: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-UU
+- [ ] Hash - Message Digest 5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
+- [ ] Hash - SHA-2: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-SHA-2
+- [ ] Shift cipher: https://www.root-me.org/en/Challenges/Cryptanalysis/Shift-cipher
+- [ ] Pixel Madness: https://www.root-me.org/en/Challenges/Cryptanalysis/Pixel-Madness-86
+- [ ] ELF64 - PID encryption: https://www.root-me.org/en/Challenges/Cryptanalysis/ELF64-PID-encryption
