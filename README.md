@@ -81,7 +81,7 @@ https://www.root-me.org/en/Challenges/Network/
 
 - [x] FTP - authentication: https://www.root-me.org/en/Challenges/Network/FTP-authentication
 - [x] TELNET - authentication: https://www.root-me.org/en/Challenges/Network/TELNET-authentication
-- [ ] ETHERNET - frame: https://www.root-me.org/en/Challenges/Network/ETHERNET-frame
+- [x] ETHERNET - frame: https://www.root-me.org/en/Challenges/Network/ETHERNET-frame
 - [ ] Twitter authentication: https://www.root-me.org/en/Challenges/Network/Twitter-authentication-101
 
 
