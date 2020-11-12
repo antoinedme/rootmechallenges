@@ -82,8 +82,13 @@ https://www.root-me.org/en/Challenges/Network/
 - [x] FTP - authentication: https://www.root-me.org/en/Challenges/Network/FTP-authentication
 - [x] TELNET - authentication: https://www.root-me.org/en/Challenges/Network/TELNET-authentication
 - [x] ETHERNET - frame: https://www.root-me.org/en/Challenges/Network/ETHERNET-frame
-- [ ] Twitter authentication: https://www.root-me.org/en/Challenges/Network/Twitter-authentication-101
-
+- [x] Twitter authentication: https://www.root-me.org/en/Challenges/Network/Twitter-authentication-101
+- [ ] Bluetooth - Fichier inconnu: https://www.root-me.org/fr/Challenges/Reseau/Bluetooth-Fichier-inconnu
+- [ ] CISCO - mot de passe: https://www.root-me.org/fr/Challenges/Reseau/CISCO-mot-de-passe
+- [ ] DNS - transfert de zone: https://www.root-me.org/fr/Challenges/Reseau/DNS-transfert-de-zone
+- [ ] IP - Time To Live: https://www.root-me.org/fr/Challenges/Reseau/IP-Time-To-Live
+- [ ] LDAP - null bind: https://www.root-me.org/fr/Challenges/Reseau/LDAP-null-bind
+- [ ] POP - APOP: https://www.root-me.org/fr/Challenges/Reseau/POP-APOP
 
 ### Category: App Script:
 
