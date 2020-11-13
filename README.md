@@ -122,7 +122,7 @@ Prerequisites:
 https://www.root-me.org/en/Challenges/Cryptanalysis/
 
 - [x] Encoding - ASCII: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-ASCII
-- [ ] Encoding - UU: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-UU
+- [x] Encoding - UU: https://www.root-me.org/en/Challenges/Cryptanalysis/Encoding-UU
 - [x] Hash - Message Digest 5: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-Message-Digest-5
 - [ ] Hash - SHA-2: https://www.root-me.org/en/Challenges/Cryptanalysis/Hash-SHA-2
 - [ ] Shift cipher: https://www.root-me.org/en/Challenges/Cryptanalysis/Shift-cipher
