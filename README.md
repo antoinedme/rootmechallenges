@@ -31,7 +31,7 @@ https://www.root-me.org/fr/Challenges/Web-Serveur/
 - [ ] HTTP User-agent: https://www.root-me.org/en/Challenges/Web-Server/HTTP-User-agent
 - [x] HTTP - Directory indexing: https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing
 - [x] HTTP POST: https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST
-- [ ] HTTP - Open redirect: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Open-redirect
+- [x] HTTP - Open redirect: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Open-redirect
 - [x] PHP - Injection de commande: https://www.root-me.org/fr/Challenges/Web-Serveur/Injection-de-commande
 - [ ] Fichier de sauvegarde: https://www.root-me.org/fr/Challenges/Web-Serveur/Fichier-de-sauvegarde
 - [ ] HTTP - Headers: https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers
