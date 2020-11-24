@@ -128,3 +128,6 @@ https://www.root-me.org/en/Challenges/Cryptanalysis/
 - [ ] Shift cipher: https://www.root-me.org/en/Challenges/Cryptanalysis/Shift-cipher
 - [ ] Pixel Madness: https://www.root-me.org/en/Challenges/Cryptanalysis/Pixel-Madness-86
 - [ ] ELF64 - PID encryption: https://www.root-me.org/en/Challenges/Cryptanalysis/ELF64-PID-encryption
+
+
+In progress: Steganography: Gunnm, Squared done
